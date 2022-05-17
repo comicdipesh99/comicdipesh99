@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @comicdipesh99
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on node.js project
+- 💞️ I’m looking to collaborate on js project
 - 📫 How to reach me https://github.com/comicdipesh99/comicdipesh99
 
 <!---
